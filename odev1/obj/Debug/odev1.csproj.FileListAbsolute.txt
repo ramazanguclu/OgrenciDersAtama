@@ -1,0 +1,12 @@
+c:\users\ramazan\documents\visual studio 2015\Projects\odev1\odev1\bin\Debug\odev1.exe.config
+c:\users\ramazan\documents\visual studio 2015\Projects\odev1\odev1\bin\Debug\odev1.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\odev1\odev1\bin\Debug\odev1.pdb
+c:\users\ramazan\documents\visual studio 2015\Projects\odev1\odev1\obj\Debug\odev1.csprojResolveAssemblyReference.cache
+c:\users\ramazan\documents\visual studio 2015\Projects\odev1\odev1\obj\Debug\odev1.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\odev1\odev1\obj\Debug\odev1.pdb
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\CANER HOCA\odev1\odev1\bin\Debug\odev1.exe.config
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\CANER HOCA\odev1\odev1\obj\Debug\odev1.exe
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\CANER HOCA\odev1\odev1\obj\Debug\odev1.pdb
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\CANER HOCA\odev1\odev1\bin\Debug\odev1.exe
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\CANER HOCA\odev1\odev1\bin\Debug\odev1.pdb
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\CANER HOCA\odev1\odev1\obj\Debug\odev1.csprojResolveAssemblyReference.cache
